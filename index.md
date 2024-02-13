@@ -4,21 +4,20 @@ title: St Theodora Spiritual Study
 ---
 
 ## About
-These are material for the St Theodora Study at Holy Resurrection Orthodox Church in Tucson.
+These are materials for the St Theodora Study at Holy Resurrection Orthodox Church in Tucson.
 
 Materials are added within a few days of the lesson.
 
 ## News
 This is a new page, still in process
 
-## Outline and links
+## Beginning to Pray by Metropolitan Anthony Bloom
 
-Beginning to Pray by Metropolitan Anthony Bloom | Date 
+Files | Date 
 ---|---
 Introduction and overview | 2024-02-11
 
 
-A quick request, if you find any errors please notify the project owner.
 
 ## Other links
 The Divine Liturgy Series  
