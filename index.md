@@ -1,6 +1,6 @@
 ---
 layout: home
-# title: Beginning to Pray
+title: St Theodora's Ministry
 ---
 
 ## About
