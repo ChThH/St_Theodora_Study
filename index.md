@@ -10,6 +10,7 @@ Materials are added within a few days of the lesson.
 
 ## Resources
 [Schedule](/docs/St%20Theodora%20Adult%20Ministry%20Assignment%20for%202024.pdf)
+
 [Information Sheet](/docs/St%20Theodora%20Adult%20Ministry%20Information%20Sheet%20-%202024.pdf)
 
 ## Beginning to Pray by Metropolitan Anthony Bloom
