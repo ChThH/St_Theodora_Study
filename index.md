@@ -1,6 +1,6 @@
 ---
 layout: home
-title: St Theodora Spiritual Study
+title: Beginning to Pray
 ---
 
 ## About
