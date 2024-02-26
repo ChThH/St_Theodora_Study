@@ -15,9 +15,11 @@ Materials are added within a few days of the lesson.
 
 ## Beginning to Pray by Metropolitan Anthony Bloom
 
-Files | Date 
----|---
-[Introduction and Overview](docs/240211%20Beginning%20to%20Pray%20-%20Introduction%201%20-%20Notes.pdf) | 2024-02-11
+Chapter Notes| Questions | Date 
+---|---|---
+[Introduction and Overview](docs/240211%20Beginning%20to%20Pray%20-%20Introduction%201%20-%20Notes.pdf)| No questions | 2024-02-11
+[The Abscence of God](docs/2-25-24%20St%20Theodora%20Adult%20Ministry%20Chapter%20One.pdf)| [Questions Ch 1](qc1.md) | 2024-02-25
+Knocking at the Door | [Questions Ch 2](qc2.md) | 2024-03-10
 
 
 ## Other links
