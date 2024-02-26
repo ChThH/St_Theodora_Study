@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Questions for Chapter 1
 ---
 
-
-# Questions for Chapter 1
 ## The Absence of God
 1.	How do you feel the absence of God in prayer?
 2.	How are we absent from our relationship with God?
