@@ -1,4 +1,8 @@
-# Questions for Chapter 2: 
+---
+layout: page
+title: Questions for Chapter 2
+---
+
 ## Knocking At The Door
 1)	Are you able to sense the depth that you are “outside” of the kingdom of God?
 2)	What is meant by increasing progression towards a deeper, richer, longing for the presence of God?
