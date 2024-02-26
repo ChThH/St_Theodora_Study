@@ -10,7 +10,7 @@ minima:
   #email: "chthh@example.com"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-header_pages: 
- - index.md
+# header_pages: 
+#  - index.md
   
 
